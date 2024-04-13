@@ -1,0 +1,2 @@
+# KickstartNvim
+Repository for nvim
